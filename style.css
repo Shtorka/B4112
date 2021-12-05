@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Pacifico&display=swap');
+.test1 {
+    font-family: 'Comforter', cursive;
+    font-weight: 400;
+    font-size: 36px;
+    color: mediumspringgreen;
+}
+.test2 {
+    font-family: 'Comforter', cursive;
+    font-weight: 400;
+    font-size: 36px;
+    color: orange;
+}
+.test3 {
+    font-family: 'Comforter', cursive;
+    font-weight: 400;
+    font-size: 36px;
+    color: orchid;
+}
+.test4 {
+    font-family: 'Comforter', cursive;
+    font-weight: 400;
+    font-size: 36px;
+    color: tomato;
+}
